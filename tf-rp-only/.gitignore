@@ -1,0 +1,6 @@
+/.terraform/
+/tf-app_rsa
+/tf-app_rsa.pub
+
+/terraform.tfstate
+/terraform.tfstate.backup
